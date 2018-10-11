@@ -1,4 +1,4 @@
-<h2>Instalacion de Moodle</h2>
+<h2>Instalación de Moodle</h2>
 
 ### -Intalamos Moodle en el server02
 

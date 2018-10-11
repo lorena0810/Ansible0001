@@ -1,4 +1,4 @@
-# Cofiguración de Ansible
+# Configuración de Ansible
 
 ## Despliegue de plataforma Moodle
 

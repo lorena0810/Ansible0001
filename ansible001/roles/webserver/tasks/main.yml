@@ -4,9 +4,6 @@
     name: "{{ item }}"
     state: present
   with_items:
-    - gcc
-    - make
-    - perl
     - apache2
 
 - name: apache2 service state

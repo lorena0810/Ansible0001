@@ -38,3 +38,8 @@ ansible-playbook -i ../hosts sqlserver.yml
 Usamos el siguiente comando: 
 
 ansible-playbook -i ../hosts redis.yml
+
+
+## -Solo faltaria instalar Moodle
+
+Ir a Ansible002
